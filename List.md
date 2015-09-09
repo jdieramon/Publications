@@ -1,4 +1,4 @@
-
+## Academic publications
 1. Bioconductor: Two main academic papers describing Bioconductor 
  
  1.1 Original description written when the project was initiated:
@@ -21,3 +21,7 @@ http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003118
 
 3. Reproducible Research
 Peng. Reproducible Research in Computational Science. Science. 2011; 334(6060) 1226-1227 doi:10.1126/science.1213847
+
+## Reference Links
+1. Free Science Data Books (by William Chen @wzchen) 
+http://www.wzchen.com/data-science-books
