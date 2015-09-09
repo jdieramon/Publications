@@ -1,7 +1,7 @@
 ## A. Academic publications
-* 1. Bioconductor: Two main academic papers describing Bioconductor 
+### 1. Bioconductor: Two main academic papers describing Bioconductor 
  
- ** 1.1 Original description written when the project was initiated:
+ * 1.1 Original description written when the project was initiated:
  Gentleman RC, Carey VJ, Bates DM, et al. Bioconductor: open software development for computational biology and bioinformatics.
  Genome Biology. 2004;5(10):R80. doi:10.1186/gb-2004-5-10-r80.
  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC545600/
@@ -19,7 +19,7 @@ http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003118
 
 
 ###3. Reproducible Research
-Peng. Reproducible Research in Computational Science. Science. 2011; 334(6060) 1226-1227 doi:10.1126/science.1213847
+* Peng. Reproducible Research in Computational Science. Science. 2011; 334(6060) 1226-1227 doi:10.1126/science.1213847
 http://www.sciencemag.org/content/334/6060/1226.abstract
 
 ## B. Reference Links
