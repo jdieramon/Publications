@@ -1,12 +1,12 @@
 ### A. Academic publications
 ####1. Bioconductor: Two main academic papers describing Bioconductor 
  
- *1.1 Original description written when the project was initiated:
+ * 1.1 Original description written when the project was initiated:
  Gentleman RC, Carey VJ, Bates DM, et al. Bioconductor: open software development for computational biology and bioinformatics.
  Genome Biology. 2004;5(10):R80. doi:10.1186/gb-2004-5-10-r80.
  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC545600/
  
- *1.2 Update. Future prospects in Bioconductor:
+ * 1.2 Update. Future prospects in Bioconductor:
  Huber et al. Orchestrating high-throughput genomic analysis with Bioconductor. 
  Nature Methods. 2015; 12, 115–121 doi:10.1038/nmeth.3252
  http://www.nature.com/nmeth/journal/v12/n2/abs/nmeth.3252.html
