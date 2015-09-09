@@ -23,5 +23,5 @@ http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003118
 http://www.sciencemag.org/content/334/6060/1226.abstract
 
 ## B. Reference Links
-###1. Free Science Data Books (by William Chen @wzchen) 
+###1. Free Science Data Books (by William Chen [@wzchen](https://twitter.com/wzchen) 
 http://www.wzchen.com/data-science-books
