@@ -25,11 +25,11 @@ http://www.sciencemag.org/content/334/6060/1226.abstract
 
 ## B. Reference Links
 #####1. Free Science Data Books
-William Chen [@wzchen](https://twitter.com/wzchen)
+William Chen [@wzchen](https://twitter.com/wzchen)  
 http://www.wzchen.com/data-science-books
 
 #####2. Bioconductor for Genomic Data Science
-Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)
+Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)  
 http://kasperdanielhansen.github.io/genbioconductor/
 
 
