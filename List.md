@@ -29,6 +29,7 @@ William Chen [@wzchen](https://twitter.com/wzchen)
 http://www.wzchen.com/data-science-books
 
 #####2. Bioconductor for Genomic Data Science
-http://kasperdanielhansen.github.io/genbioconductor/
 Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)
+http://kasperdanielhansen.github.io/genbioconductor/
+
 
