@@ -33,5 +33,7 @@ Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)
 http://kasperdanielhansen.github.io/genbioconductor/
 
 #####3. Data Science Specialization  
+A 9 courses series on Data Science. 
 http://datasciencespecialization.github.io
+The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
 
