@@ -32,4 +32,6 @@ http://www.wzchen.com/data-science-books
 Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)  
 http://kasperdanielhansen.github.io/genbioconductor/
 
+#####3. Data Science Specialization  
+http://datasciencespecialization.github.io
 
