@@ -37,3 +37,6 @@ A 9 courses series on Data Science.
 http://datasciencespecialization.github.io
 The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
 
+#####3C. Data Analysis for Genomics
+This is based on the the PH525 series by [Rafael A Irizarry](@rafalab), [Michael Love](@mikelove) and the the PH525x team.
+http://genomicsclass.github.io/book/
