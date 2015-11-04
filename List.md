@@ -38,9 +38,9 @@ http://datasciencespecialization.github.io
 The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
 
 #####4B. Data Analysis for Genomics
-This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com/rafalab), [Michael Love](https://twitter.com/mikelove) and the the PH525x team from Dana Farber & Harvard School Public Health.  
-http://genomicsclass.github.io/book/  
-Plots to avoid: http://genomicsclass.github.io/book/pages/plots_to_avoid.html
+This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com/rafalab), [Michael Love](https://twitter.com/mikelove) and the the PH525x team from Dana Farber & Harvard School Public Health. http://genomicsclass.github.io/book/  
+
+*Plots to avoid: http://genomicsclass.github.io/book/pages/plots_to_avoid.html
 
 ## C. R packages
 #####1C. Swirl Courses
