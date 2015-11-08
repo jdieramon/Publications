@@ -24,8 +24,7 @@ http://www.sciencemag.org/content/334/6060/1226.abstract
 
 
 ####4A. Batch effects  
-Leek JT, Scharpf RB, Corrada Bravo H, Simcha D, Langmead B, Johnson WE, Geman D, Baggerly Km, Irizarry RA. Tackling the widespread and critical impact of batch effects in high-throughput data. Nature Reviews Genetics 11, (2010) 733-739 doi:10.1038/nrg2825  
-http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html  
+* Leek JT, Scharpf RB, Corrada Bravo H, Simcha D, Langmead B, Johnson WE, Geman D, Baggerly Km, Irizarry RA. Tackling the widespread and critical impact of batch effects in high-throughput data. Nature Reviews Genetics 11, (2010) 733-739 doi:10.1038/nrg2825 http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html  
 
 
 ## B. Reference Links
