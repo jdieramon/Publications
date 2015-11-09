@@ -36,7 +36,11 @@ http://www.wzchen.com/data-science-books
 Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)  
 http://kasperdanielhansen.github.io/genbioconductor/
 
-#####3B. Data Science Specialization  
+#####3B. Statistics for Genomic Data Science
+Jeff Leek [@jtleek](https://twitter.com/jtleek)  
+http://jtleek.com/genstats_site/  
+
+#####4B. Data Science Specialization  
 A 9 courses series on Data Science. 
 http://datasciencespecialization.github.io
 The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
