@@ -1,5 +1,6 @@
 ## A. Academic publications
-#### 1A. Bioconductor: Two main academic papers describing Bioconductor 
+#### 1A. Bioconductor:  
+Two main academic papers describing Bioconductor 
  
  * 1.1 Originali description written when the project was initiated:
  Gentleman RC, Carey VJ, Bates DM, et al. Bioconductor: open software development for computational biology and bioinformatics.
