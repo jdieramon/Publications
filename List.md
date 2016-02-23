@@ -32,7 +32,9 @@ http://www.sciencemag.org/content/334/6060/1226.abstract
 * 5.1 Boyer-Moore: the benchmark for exact matching algorithm.  
  Boyer RS, Moore JS. A fast string searching algorithm. Communications of the ACM, (1977) 762-772 doi:10.1145/359842.359859    
  https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf  
-
+  
+<br>  
+  
 ## B. Reference Links
 #####1B. Free Science Data Books
 William Chen [@wzchen](https://twitter.com/wzchen)  
@@ -55,6 +57,9 @@ The course material is availible on [GitHub](https://github.com/DataScienceSpeci
 This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com/rafalab), [Michael Love](https://twitter.com/mikelove) and the the PH525x team from Dana Farber & Harvard School Public Health. http://genomicsclass.github.io/book/  
 
 * **Plots to avoid:** http://genomicsclass.github.io/book/pages/plots_to_avoid.html
+  
+<br>  
+  
 
 ## C. R packages
 #####1C. h-index over years  
