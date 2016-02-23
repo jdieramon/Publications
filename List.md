@@ -57,6 +57,10 @@ This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com
 * **Plots to avoid:** http://genomicsclass.github.io/book/pages/plots_to_avoid.html
 
 ## C. R packages
-#####1C. Swirl Courses
+#####1C. h-index over years  
+My first R package. Plot the h-index over year for a given author.  
+https://github.com/jdieramon/hIndex/blob/master/tutorial.md
+
+#####2C. Swirl Courses
 https://github.com/swirldev/swirl_courses#swirl-courses
 
