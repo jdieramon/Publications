@@ -25,13 +25,13 @@ http://www.sciencemag.org/content/334/6060/1226.abstract
 
 
 ####4A. Batch effects  
-* Leek JT, Scharpf RB, Corrada Bravo H, Simcha D, Langmead B, Johnson WE, Geman D, Baggerly Km, Irizarry RA. Tackling the widespread and critical impact of batch effects in high-throughput data. Nature Reviews Genetics 11, (2010) 733-739 doi:10.1038/nrg2825 http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html  
+* Leek JT, Scharpf RB, Corrada Bravo H, Simcha D, Langmead B, Johnson WE, Geman D, Baggerly Km, Irizarry RA. Tackling the widespread and critical impact of batch effects in high-throughput data. Nature Reviews Genetics 11, (2010) 733-739 doi:10.1038/nrg2825   http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html  
 
 
 ####5A. DNA algorithms
 * 5.1 Boyer-Moore: the benchmark for exact matching algorithm.  
- Boyer RS, Moore JS. A fast string searching algorithm. Communications of the ACM, (1977) 762-772 doi:10.1145/359842.359859  
- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC545600/
+ Boyer RS, Moore JS. A fast string searching algorithm. Communications of the ACM, (1977) 762-772 doi:10.1145/359842.359859    
+ https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf  
 
 ## B. Reference Links
 #####1B. Free Science Data Books
