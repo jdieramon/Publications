@@ -63,7 +63,7 @@ This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com
 
 ## C. R packages
 #####1C. h-index over years  
-My first R package. Plot the h-index over year for a given author.  
+My first R package. Plot the h-index over years for a given author.  
 https://github.com/jdieramon/hIndex/blob/master/tutorial.md
 
 #####2C. Swirl Courses
