@@ -30,8 +30,9 @@ http://www.sciencemag.org/content/334/6060/1226.abstract
 
 ####5A. DNA algorithms
 * 5.1 Boyer-Moore: the benchmark for exact matching algorithm.  
- Boyer RS, Moore JS. A fast string searching algorithm. Communications of the ACM, (1977) 762-772 doi:10.1145/359842.359859    
- https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf  
+ Boyer RS, Moore JS. A fast string searching algorithm. Communications of the ACM, (1977) 762-772 doi:10.1145/359842.359859 https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf  
+* 5.2 Li L, Homer N. A survey of sequence alignment algorithms for next-generation sequencing. Brief. Bioinform. 11, (2010) 473-483 http://www.ncbi.nlm.nih.gov/pubmed/20460430  
+* Gusfield, D. Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology. ISBN-13: 978-0521585194 http://www.amazon.com/Algorithms-Strings-Trees-Sequences-Computational/dp/0521585198
   
 <br>  
   
