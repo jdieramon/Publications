@@ -54,7 +54,7 @@ A 9 courses series on Data Science.
 http://datasciencespecialization.github.io
 The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
 
-##### 4B. Data Analysis for Genomics
+##### 4C. Data Analysis for Genomics
 This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com/rafalab), [Michael Love](https://twitter.com/mikelove) and the the PH525x team from Dana Farber & Harvard School Public Health. http://genomicsclass.github.io/book/  
 
 * **Plots to avoid:** http://genomicsclass.github.io/book/pages/plots_to_avoid.html
@@ -63,12 +63,12 @@ This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com
   
 
 ## C. R packages
-#####1C. h-index over years  
+##### 1C. h-index over years  
 My first R package. Plot the h-index over years for a given author.  
 https://github.com/jdieramon/hIndex/blob/master/tutorial.md
 
-#####2C. Swirl Courses
+##### 2C. Swirl Courses
 https://github.com/swirldev/swirl_courses#swirl-courses
 
 D. Books
-R for Data Science. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or red it for free [here](http://r4ds.had.co.nz)  
+**R for Data Science**. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or red it for free [here](http://r4ds.had.co.nz)  
