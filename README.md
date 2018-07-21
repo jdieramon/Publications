@@ -1,4 +1,4 @@
-### Publications
+## Publications
 List of reference papers in Computational Biology
 
 This is a list of publications (or other links) that I use as reference in my research. 
@@ -13,8 +13,7 @@ Two main academic papers describing Bioconductor
  
  * 1.2 Update. Future prospects in Bioconductor:  
  Huber et al. Orchestrating high-throughput genomic analysis with Bioconductor. 
- Nature Methods. [2015](http://www.nature.com/nmeth/journal/v12/n2/abs/nmeth.3252.html
-); 12, 115–121.  
+ Nature Methods. [2015](http://www.nature.com/nmeth/journal/v12/n2/abs/nmeth.3252.html); 12, 115–121.  
  
 
 #### 2A. GRanges / IRanges
@@ -77,12 +76,9 @@ Some important books available online for free:
 
 
 ## D. R packages
-##### 1C. h-index over years  
-My first R package. Plot the h-index over years for a given author.  
-https://github.com/jdieramon/hIndex/blob/master/tutorial.md
+**1D. h-index over years**. My first R package. Plotting the [h-index]([https://github.com/jdieramon/hIndex/blob/master/tutorial.md]) over years for a given author.    
 
-##### 2C. Swirl Courses
-https://github.com/swirldev/swirl_courses#swirl-courses
+**2D. Swirl Courses**: https://github.com/swirldev/swirl_courses#swirl-courses
 
 
 
