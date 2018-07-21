@@ -73,9 +73,11 @@ https://github.com/swirldev/swirl_courses#swirl-courses
 <br>  
   
 ## D. Books  
-**R for Data Science** by Hadley Wickham. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or read it for [free](http://r4ds.had.co.nz)  
-**Advanced R** by Hadley Wickham. Get the book [here](https://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20) or read it for [free](http://adv-r.had.co.nz/). 
-**R packages** by Hadley Wickham. Get the book [here](https://www.amazon.com/dp/1491910593/ref=cm_sw_su_dp?tag=r-pkgs-20) or read it for [free](http://r-pkgs.had.co.nz/).   
+* **R for Data Science** by Hadley Wickham. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or read it for [free](http://r4ds.had.co.nz)  
+* **Advanced R** by Hadley Wickham. Get the book [here](https://www.amazon.com/dp/1466586966/ref=cm_sw_su_dp?tag=devtools-20) or read it for [free](http://adv-r.had.co.nz/). 
+* **R packages** by Hadley Wickham. Get the book [here](https://www.amazon.com/dp/1491910593/ref=cm_sw_su_dp?tag=r-pkgs-20) or read it for [free](http://r-pkgs.had.co.nz/).   
+* **Happy Git and GitHub for the useR** by Jenny Bryan. Read the [book](http://happygitwithr.com/).  
+* **Text Mining with R** by Julia Silge and David Robinson. Read the [book](https://www.tidytextmining.com/) . 
 
 
 
