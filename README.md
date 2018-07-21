@@ -73,4 +73,7 @@ https://github.com/swirldev/swirl_courses#swirl-courses
 <br>  
   
 ## D. Books  
-**R for Data Science**. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or read it for free [here](http://r4ds.had.co.nz)  
+**R for Data Science** by Hadley Wickham. Get the book [here](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd) or read it for [free](http://r4ds.had.co.nz)  
+**Advanced R** by Hadley Wickham. Get the book [here]() or read it for [free](http://adv-r.had.co.nz/) . 
+
+
