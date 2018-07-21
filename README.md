@@ -76,7 +76,7 @@ Some important books available online for free:
 
 
 ## D. R packages
-**1D. h-index over years**. My first R package. Plotting the [h-index](https://github.com/jdieramon/hIndex/blob/master/tutorial.md]) over years for a given author.    
+**1D. h-index over years**. My first R package. Plotting the [h-index](https://github.com/jdieramon/hIndex) over years for a given author.    
 
 **2D. Swirl Courses**: https://github.com/swirldev/swirl_courses#swirl-courses
 
