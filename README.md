@@ -44,16 +44,8 @@ http://www.wzchen.com/data-science-books
 Kasper Daniel Hansen [@kasperdhansen](https://twitter.com/kasperdhansen)  
 http://kasperdanielhansen.github.io/genbioconductor/
 
-##### 3B. Statistics for Genomic Data Science
-Jeff Leek [@jtleek](https://twitter.com/jtleek)  
-http://jtleek.com/genstats_site/  
 
-##### 4B. Data Science Specialization  
-A 9 courses series on Data Science. 
-http://datasciencespecialization.github.io
-The course material is availible on [GitHub](https://github.com/DataScienceSpecialization/courses).
-
-##### 4C. Data Analysis for Genomics
+##### 3B. Data Analysis for Genomics
 This is based on the the PH525 series by [Rafael A Irizarry](https://twitter.com/rafalab), [Michael Love](https://twitter.com/mikelove) and the the PH525x team from Dana Farber & Harvard School Public Health. http://genomicsclass.github.io/book/  
 
 * **Plots to avoid:** http://genomicsclass.github.io/book/pages/plots_to_avoid.html
